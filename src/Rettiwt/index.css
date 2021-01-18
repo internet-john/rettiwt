@@ -1,0 +1,9 @@
+.rettiwt {
+    display: grid;
+    grid-template-rows: 1fr 3fr;
+    margin: 0 10%;
+}
+
+.rettiwt__content {
+    display: flex;
+}

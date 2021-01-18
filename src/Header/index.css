@@ -1,0 +1,9 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin: 25px;
+}
+
+.global__search {
+    height: 20px;
+}

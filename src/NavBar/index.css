@@ -1,0 +1,15 @@
+.navbar, .navbar__list {
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+.navbar__list {
+    list-style-type: none;
+    line-height: 200%;
+}
+
+.navbar__list button {
+    padding: 10px 50px;
+    border-radius: 25px;
+    background-color: #ffff00 
+}
